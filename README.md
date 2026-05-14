@@ -1,12 +1,45 @@
-- 👋 Hi, I’m @akhilesh0905
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data Science and technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋, I'm Akhilesh Sharma
 
-<!---
-akhilesh0905/akhilesh0905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### B.Tech CSE Student | UI/UX Enthusiast | Frontend Developer
+
+I'm passionate about building clean, user-friendly, and modern digital experiences.
+Currently exploring UI/UX Design, React, and Frontend Development.
+
+---
+
+## 🚀 Skills
+
+* UI/UX Design
+* Figma
+* React.js
+* HTML, CSS, JavaScript
+* Tailwind CSS
+* Git & GitHub
+
+---
+
+## 📌 Projects
+
+### 🔹 SafeHer – Women Safety App
+
+A safety-focused mobile application featuring SOS alerts, emergency contacts, live location sharing, and safety resources.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced UI/UX Design
+* React Animations
+* Design Systems
+* Frontend Architecture
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/akhilesh0905
+* Email: sh2005.akhilesh@gmail.com
+
+---
+
+⭐ “Design is not just how it looks — it's how it works.”
